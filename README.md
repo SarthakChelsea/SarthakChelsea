@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SarthakChelsea
+- 👋 Hi, I’m Sarthak Mahapatra( @SarthakChelsea)
 - 👀 I’m interested in Machine Learning, Data Science,DSA,Java,Python,R
 - 🌱 Currently pursuing a Masters in Applied Data Analytics
 - 💞️ I’m looking to collaborate on  Research Projects related to Machine Learning
