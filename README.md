@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarthak Mahapatra</h1>
-![image](https://drive.google.com/uc?export=view&id=1UwMhzS4EU58Wors0pY5vVSMF0joEmIM_)
+
 <h3 align="center">I'm a passionate data enthusiast with a strong foundation in key data science tools and technologies. My expertise includes proficient programming in Python and R, skilled data manipulation using MySQL, and insightful data visualization through PowerBI. Eager to make impactful contributions in the field of data science, I am currently pursuing a Masters in Applied Data Analytics from Boston University. With a deep-rooted curiosity for extracting meaningful insights from complex datasets, I am enthusiastic about translating raw data into actionable solutions that drive informed decision-making. My goal is to leverage my skills and academic background to excel in the dynamic world of data science.</h3>
+
+<p align="center"> <img src="https://m.media-amazon.com/images/I/51xSlZHLl4L._AC_UF1000,1000_QL80_.jpg"  /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakchelsea&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakchelsea" /> </p>
 
